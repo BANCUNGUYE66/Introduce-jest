@@ -1,0 +1,23 @@
+{
+  "name": "introduce-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculatorMethod.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BANCUNGUYE66/Introduce-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BANCUNGUYE66/Introduce-jest/issues"
+  },
+  "homepage": "https://github.com/BANCUNGUYE66/Introduce-jest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
